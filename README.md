@@ -8,7 +8,7 @@ Lifelong dreamer, pocket size dragon
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [myavuzyalcintas@gmail.com](mailto:myavuzyalcintas@gmail.com)
-* 🚀  I'm currently working on [share.dev](http://share.dev)
+* 🚀  I'm currently working on [trainer.dev](https://trainer.dev)
 * 🧠  I'm learning GoLang
 
 <a href="https://www.twitter.com/myavuzyalcintas" target="_blank" rel="noreferrer"><img
